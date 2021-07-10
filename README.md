@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ご閲覧ありがとうございます。
-ソフトウェアエンジニアとQAエンジニアの境目をさまようTMRです。
-
+ソフトウェアエンジニアとQAエンジニアの境目に生息しているTMRです。
+ 
 |  項目  |  詳細  |
 | ---- | ---- |
 | Twitter | [@tmr_machamochi](https://twitter.com/tmr_machamochi) |
