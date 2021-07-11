@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 | ---- | ---- |
 | Twitter | [@tmr_machamochi](https://twitter.com/tmr_machamochi) |
 | Zenn | [@tmr_chocolate](https://zenn.dev/tmr_chocolate) |
-| Qiita | [ @TMR_purin](https://qiita.com/TMR_purin) |
+| Qiita | [ @tmr_pudding](https://qiita.com/tmr_pudding) |
 | 主な経験言語 | C, C++, Python, PHP |
 | 好きなLinuxﾃﾞｨｽﾄﾘﾋﾞｭｰｼｮﾝ | Debian系, Ubuntu |
 | 保有資格 | 基本情報技術者試験, JSTQB Foundation Level |
