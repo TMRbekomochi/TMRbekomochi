@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 |  項目  |  詳細  |
 | ---- | ---- |
 | Twitter | [@tmr_machamochi](https://twitter.com/tmr_machamochi) |
+| Zenn | [@tmr_chocolate](https://zenn.dev/tmr_chocolate) |
 | Qiita | [ @TMR_purin](https://qiita.com/TMR_purin) |
 | 主な経験言語 | C, C++, Python, PHP |
 | 好きなLinuxﾃﾞｨｽﾄﾘﾋﾞｭｰｼｮﾝ | Debian系, Ubuntu |
