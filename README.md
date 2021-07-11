@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 | Qiita | [ @TMR_purin](https://qiita.com/TMR_purin) |
 | 主な経験言語 | C, C++, Python, PHP |
 | 好きなLinuxﾃﾞｨｽﾄﾘﾋﾞｭｰｼｮﾝ | Debian系, Ubuntu |
+| 保有資格 | 基本情報技術者試験, JSTQB Foundation Level |
+| TOEIC | 690点 |
 | キャリア・アンカー診断 | TF, AU, SEのトップ３ |
 | 今アツいこと | Pythonでデータサイエンス独学中 |
 
