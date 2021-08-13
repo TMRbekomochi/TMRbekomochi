@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 
 ご閲覧ありがとうございます。
-ソフトウェアエンジニアとQAエンジニアの境目に生息しているTMRです。
- 
+ソフトウェアエンジニアとQAエンジニアの境目に生息しているTMRです。  
+**[アウトプット記事まとめ](https://github.com/TMRbekomochi/TMRbekomochi/blob/main/QA_Output.md)**
+
 |  項目  |  詳細  |
 | ---- | ---- |
 | Twitter | [@tmr_machamochi](https://twitter.com/tmr_machamochi) |
